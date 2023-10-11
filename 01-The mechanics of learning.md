@@ -2,6 +2,8 @@
 
 > PyTorch Documentation: <https://pytorch.org/docs/stable/index.html>
 
+---
+
 ## Tensor
 
 The word ***tensor*** refers to the overall concept of an **n-dimensional array**.
