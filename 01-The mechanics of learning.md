@@ -45,4 +45,4 @@ The foundational tools that PyTorch provides:
 
 ---
 
-?> Update on: 📅 {docsify-updated}
+?> {docsify-updated}
